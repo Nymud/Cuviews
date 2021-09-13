@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>LinkedIn Copy</title>
+    <defs>
+        <polygon id="path-1" points="0 0 5.0155 0 5.0155 5.0203 0 5.0203"></polygon>
+    </defs>
+    <g id="LinkedIn-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" opacity="0" x="0" y="0" width="38" height="38"></rect>
+        <g id="Group-8" transform="translate(6.500000, 6.500000)">
+            <path d="M24.0738,24.89 L24.0738,24.89 L18.7238,24.89 L18.7238,13.3135 C18.7238,11.958 18.3373,11.0085 16.6708,11.0085 C13.9073,11.0085 13.3743,13.3135 13.3743,13.3135 L13.3743,24.89 L8.0248,24.89 L8.0248,6.167 L13.3743,6.167 L13.3743,7.9565 C14.1393,7.3695 16.0493,6.1685 18.7238,6.1685 C20.4588,6.1685 24.0738,7.2085 24.0738,13.476 L24.0738,24.89 Z" id="Fill-1" fill="#EAEAEA"></path>
+            <g id="Group-5" transform="translate(0.334500, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-4"></g>
+                <path d="M2.506,5.0203 L2.506,5.0203 C1.1205,5.0203 0,3.8943 0,2.5088 C0,1.1263 1.123,-0.0002 2.506,-0.0002 C3.892,0.0033 5.0155,1.1283 5.0155,2.5088 C5.0155,3.8943 3.892,5.0203 2.506,5.0203" id="Fill-3" fill="#EAEAEA" mask="url(#mask-2)"></path>
+            </g>
+            <polygon id="Fill-6" fill="#EAEAEA" points="5.35 24.89 5.35 24.89 0 24.89 0 6.167 5.35 6.167"></polygon>
+        </g>
+        <rect id="Outline" stroke="#FFFFFF" stroke-width="0.5" x="0.25" y="0.25" width="37" height="37"></rect>
+    </g>
+</svg>
